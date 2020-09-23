@@ -1,0 +1,6 @@
+
+GET https://data.nepalcorona.info/api/v1/covid 
+Accept: application/json
+
+
+
